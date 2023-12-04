@@ -1,11 +1,10 @@
-## Hey, [Joonguini is here!](https://www.youtube.com/@joonguinirecipes)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+## Hey, Alalfy is Here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-<h1>Welcome To Our Kitchen neeerds ! </h1> 
+<h1>Welcome To Our Profile ! </h1> 
 
-<img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/logo%20(1).jpg' alt = 'Joonguini' width='500px' height='500px' align='right'/>
+<img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/logo%20(1).jpg' alt = 'alalfy' width='500px' height='500px' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Yousif%20Mohamed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youssif-mohamed-450795157/)](https://www.linkedin.com/in/youssif-mohamed-450795157/) [![Gmail Badge](https://img.shields.io/badge/-yousifm836-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yousifm836@gmail.com)](yousifm836@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-joonguini%20Recipes-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/@joonguinirecipes)](https://www.youtube.com/@joonguinirecipes)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EngALAlfy" alt="EngALAlfy" /> </p>
+[![Linkedin Badge](https://img.shields.io/badge/-Islam%20Alalfy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/islam-hassan-alalfy-2b2234167/)](https://www.linkedin.com/in/islam-hassan-alalfy-2b2234167/) [![Gmail Badge](https://img.shields.io/badge/-alalfydev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alalfydev@gmail.com)](alalfydev@gmail.com) <p align="left"> <img src="https://komarev.com/ghpvc/?username=EngALAlfy" alt="EngALAlfy" /> </p>
 
 <div style="text-align: right">Programming in the Kitchen , with delicous recipes 🤩 🥳 </div>
 
