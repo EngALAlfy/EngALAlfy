@@ -9,22 +9,22 @@
 <div style="text-align: right">Programming in the Kitchen , with delicous recipes 🤩 🥳 </div>
 
 ## :computer: Technologies I Love
-* Django Artist
-* .NET 
-* reactjs
+* Laravel
+* Nodejs 
+* Docker
+* CI/CD
+* Python
+* Flutter
 * Frontend and Backend Web Development
 
 
 
 ## Programming Languages
-<img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/c-original.svg' width='30'/> <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/cpp.svg' width='30'/> <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/python2.png' height='30'/>  <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/html.svg' width='30'/>   <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/css.svg' width='30'/> <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/java.svg' width='30'/> <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/bootstrap.svg' width='33'/>  <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/php.svg' width='40'/>
- <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/sql.svg' width='30'/> <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/c--4.svg' width='30'/> <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/NET_Core_Logo.svg' width='30'/>
+<img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/js.svg' width='30'/> <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/dart.svg' width='30'/> <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/python2.png' height='30'/>  <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/html.svg' width='30'/>   <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/css.svg' width='30'/> <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/java.svg' width='30'/> <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/bootstrap.svg' width='33'/>  <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/php.svg' width='40'/>
+ <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/sql.svg' width='30'/> <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/android.svg' width='30'/> <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/flutter.svg' width='30'/>
  
  ## Technologies I Use
- <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/pycharm.svg' width='30'/> 
- <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/flask.png' width='30'/>
- <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/git.svg' width='30'/>  
- <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/react.svg' width='33'/>
+ <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/linux.png' width='30'/>  <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/jenkins.png' width='30'/> <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/docker.png' width='30'/> <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/git.svg' width='30'/>  
  
  ## Who am I?
  ```python
