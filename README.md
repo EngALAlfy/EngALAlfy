@@ -52,7 +52,7 @@
  * I'm currently working on 🔭 building **Websites using ( Laravel ) - Mobile apps using ( Flutter )**  and working up on polishing my skills 🌱 in **Competitive Programming**.
  
 ## Other Stuff
-  - :octocat: [My Resume]()
+  - :octocat: [My Resume](https://github.com/EngALAlfy/EngALAlfy/blob/main/cv.pdf)
  
 
 ![Alalfy's github stats](https://github-readme-stats.vercel.app/api?username=EngALAlfy&show_icons=true&hide=[%22issues%22])
