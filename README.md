@@ -21,10 +21,10 @@
 
 ## Programming Languages
 <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/js.svg' width='30'/> <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/dart.svg' width='30'/> <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/python2.png' height='30'/>  <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/html.svg' width='30'/>   <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/css.svg' width='30'/> <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/java.svg' width='30'/> <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/bootstrap.svg' width='33'/>  <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/php.svg' width='40'/>
- <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/sql.svg' width='30'/> <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/android.svg' width='30'/> <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/flutter.svg' width='30'/>
+ <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/sql.svg' width='30'/> <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/android.svg' width='30'/> <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/flutter.png' width='30'/>
  
  ## Technologies I Use
- <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/linux.png' width='30'/>  <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/jenkins.png' width='30'/> <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/docker.png' width='30'/> <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/git.svg' width='30'/>  
+ <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/linux.png' width='30'/>  <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/jenkins.png' width='35'/> <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/docker.png' width='35'/> <img src = 'https://github.com/EngALAlfy/EngALAlfy/blob/main/images/git.svg' width='30'/>  
  
  ## Who am I?
  ```python
