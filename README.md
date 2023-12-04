@@ -6,7 +6,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Islam%20Alalfy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/islam-hassan-alalfy-2b2234167/)](https://www.linkedin.com/in/islam-hassan-alalfy-2b2234167/) [![Gmail Badge](https://img.shields.io/badge/-alalfydev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alalfydev@gmail.com)](alalfydev@gmail.com) <p align="left"> <img src="https://komarev.com/ghpvc/?username=EngALAlfy" alt="EngALAlfy" /> </p>
 
-<div style="text-align: right">Programming in the Kitchen , with delicous recipes 🤩 🥳 </div>
+<div style="text-align: right">
+Experienced developer with a passion for crafting innovative software solutions. Skilled in programming languages such as Dart, PHP, and JavaScript, with a focus on creating clean, efficient code. Experienced in working with a range of development tools and frameworks, such as Laravel, Flutter, and VueJS. Committed to staying up-to-date with the latest industry trends and technologies to deliver high-quality results for clients. Seeking new opportunities to leverage my skills and contribute to cutting-edge software projects.
+</div>
 
 ## :computer: Technologies I Love
 * Laravel
